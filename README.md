@@ -1,6 +1,5 @@
 
 <body>
-
 <img id="second" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejl6a214czRrZm53cWM1YXRpbjYwMmZnZzdwMnFid2YxMW54MmU0MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3EFqqYKZK2Wmq9S3SL/giphy.webp" width="350" height="350" alt="gif">
 <p>
 <h1><b><u>Presentation format:</u></b></h1>
