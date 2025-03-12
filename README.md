@@ -1,40 +1,6 @@
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Debate info</title>
-    <style>
-  u > b{
-    color:blue;
-}
-#first {
-    position:fixed;
-    left: 1100px;
-    display: inline;
-    float: right;
-    margin-left: 20px;
-}
-#second {
-    position:relative;
-    left: -300px;
-    display: inline;
-    float: right;
-    margin-right: 20px;
-}
-
-body {
-    background-color: #FADA7A;
-}
-hr {
-    border: 1px solid black;
-    
-}
-    </style>
-</head>
 <body>
-<img id="first" src="file:///C:/Users/User/Downloads/2%20arrow.png" alt="Arrow" width="200" height="200">
+
 <img id="second" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejl6a214czRrZm53cWM1YXRpbjYwMmZnZzdwMnFid2YxMW54MmU0MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3EFqqYKZK2Wmq9S3SL/giphy.webp" width="350" height="350" alt="gif">
 <p>
 <h1><b><u>Presentation format:</u></b></h1>
