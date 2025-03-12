@@ -1,4 +1,9 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Debate info</title>
     <style>
   u > b{
@@ -30,6 +35,7 @@ hr {
 </head>
 <body>
 <img id="first" src="file:///C:/Users/User/Downloads/2%20arrow.png" alt="Arrow" width="200" height="200">
+<img id="second" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejl6a214czRrZm53cWM1YXRpbjYwMmZnZzdwMnFid2YxMW54MmU0MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3EFqqYKZK2Wmq9S3SL/giphy.webp" width="350" height="350" alt="gif">
 <p>
 <h1><b><u>Presentation format:</u></b></h1>
 <br />
@@ -104,7 +110,7 @@ hr {
 
 <h1>Shawarma house Weaknesses ❌</h1>
 <br />
-<p><b>Inconsistent Quality :</b> The quality of food can vary depending on the location and time of visit._
+<p><b>Inconsistent Quality :</b> The quality of food can vary depending on the location and time of visit.
 <br /><br />
 <b>Higher Prices :</b> Shawarma House tends to be more expensive compared to some other options.
 <br /><br />
